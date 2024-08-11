@@ -65,6 +65,6 @@ Contributions are welcome! Please follow these steps to contribute:
 ## 📨 Contact
 
 For any inquiries or feedback, please reach out to:
-- **Name**: Banda Sujith Kumar
-- **Email**: sujith.suave@gmail.com
-- **GitHub**: [B-Sujith-Kumar](https://github.com/B-Sujith-Kumar)
+- **Name**: Aneesh Kaleru
+- **Email**: aneesh.kaleru@gmail.com
+- **GitHub**: [Aneesh-Kaleru](https://github.com/AneeshKaleru)
